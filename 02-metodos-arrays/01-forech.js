@@ -9,3 +9,6 @@ for (let i = 1; i < frutas.length; i++){
 frutas.forEach((frutas) =>{
     console.log(frutas)
 })
+
+
+console.log("Teste");
