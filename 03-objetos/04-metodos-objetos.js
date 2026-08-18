@@ -1,8 +1,10 @@
-const alunos ={
-    nome>: "Pablo",
+console.log(aluno)
+const alunos = {
+    nome: "pablo",
     apresentar(){
-        console.log("Olá!")
+        console.log("ola")
     }
 };
+
 
 alunos.apresentar();
